@@ -1,3 +1,5 @@
+# code
+
 x = input("Type number 1: ")
 y = input("Type number 2: ")
 
